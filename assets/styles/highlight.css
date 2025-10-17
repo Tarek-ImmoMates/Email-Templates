@@ -1,0 +1,22 @@
+.highlight {
+  border: 2px solid #009245;
+  color: #009245;
+  background-color: #f4f4f4;
+  padding: 8px 15px;
+  margin: 20px 0;
+}
+
+.highlight-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px solid #009245;
+}
+
+.highlight-details:last-child {
+  border-bottom: none;
+}
+
+.highlight-details span:first-child {
+  font-weight: 600;
+}
