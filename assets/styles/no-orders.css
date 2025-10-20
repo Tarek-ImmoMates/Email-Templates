@@ -1,0 +1,12 @@
+.customer-portal {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.customer-portal p {
+  font-style: italic;
+  font-weight: 500;
+  color: #009245;
+}

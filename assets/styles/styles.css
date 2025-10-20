@@ -5,7 +5,7 @@
 @import url("./review.css");
 @import url("./highlight.css");
 @import url("./additional-info.css");
-@import url("./main.css");
+@import url("./no-orders.css");
 
 * {
   margin: 0;
@@ -31,4 +31,8 @@ p {
 strong {
   color: #009245;
   font-weight: 600;
+}
+
+main {
+  text-align: center;
 }
